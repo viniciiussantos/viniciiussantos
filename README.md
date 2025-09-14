@@ -1,6 +1,6 @@
-# Jony Reis
+# Vinícius Henrique
 
-CTO | [**Notus Labs**](https://notus.team/)
+Desenvolvedor Web | [**Portfólio**](https://notus.team/](https://viniciusdeveloper.netlify.app/))
 
 Vinícius Henrique Desenvolvedor FrontEnd
 
